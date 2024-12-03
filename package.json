@@ -48,7 +48,7 @@
     "js-yaml": "3.13.1",
     "json2md": "1.6.5",
     "lint-staged": "10.2.6",
-    "minimist": "1.2.5",
+    "minimist": "1.2.8",
     "next-ver": "1.8.0",
     "prettier": "2.0.5",
     "ramda": "0.27.1",
